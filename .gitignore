@@ -1,0 +1,9 @@
+# Ignore environment files
+.env
+
+# Ignore MongoDB and Slack configurations
+MONGODB_URL
+SLACK_WEBHOOK_URL
+
+# Ignore other sensitive files or configurations
+mongoClient

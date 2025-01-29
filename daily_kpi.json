@@ -1,0 +1,19 @@
+{
+    "date": "2025-01-28",
+    "new_visitors": 34,
+    "new_signups": 34,
+    "first_time_demo": 100,
+    "total_demo_calls": 100,
+    "subscriptions": {
+        "new": 0,
+        "canceled": 8,
+        "active": 12
+    },
+    "call_stats": {
+        "total": 200,
+        "connected": 67,
+        "without_errors": 160,
+        "long_duration": 104
+    },
+    "avg_response_time": 2.46
+}
